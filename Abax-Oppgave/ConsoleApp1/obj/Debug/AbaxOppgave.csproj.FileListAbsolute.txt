@@ -1,0 +1,7 @@
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\obj\Debug\AbaxOppgave.csprojAssemblyReference.cache
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\obj\Debug\AbaxOppgave.csproj.CoreCompileInputs.cache
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Geir\source\repos\Abax-Oppgave\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
